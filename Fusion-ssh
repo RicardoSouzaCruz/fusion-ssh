@@ -35,7 +35,7 @@ claro
 echo -e "${CYAN}"
 gato << "EOF"
  ╔═══════════════════════════════════════════╗
- ║ FUSÃO SSH - Implantar Rápido v1.0 ⚡ ║
+ ║ FUSION SSH - Implantar Rápido v1.0 ⚡ ║
  ║ SSH + V2Ray + XRay + Stunnel + Painel ║
  ╚═══════════════════════════════════════════╝
 EOF
