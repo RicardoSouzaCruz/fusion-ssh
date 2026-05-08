@@ -1,4 +1,4 @@
-# ⚡ Fusão SSH
+# ⚡ Fusion SSH
 
 **Painel SSH/VPN completo e otimizado para VPS de baixo custo**
 
@@ -10,7 +10,7 @@
 
 ## 📋 **Sobre o Projeto**
 
-O **Fusão SSH** é um painel de controle completo para gerenciamento de túneis SSH, V2Ray, XRay e Stunnel. Desenvolvido para ser leve, seguro e fácil de usar, ideal para fornecedores e usuários que buscam uma solução para VPN/Proxy.
+O **Fusion SSH** é um painel de controle completo para gerenciamento de túneis SSH, V2Ray, XRay e Stunnel. Desenvolvido para ser leve, seguro e fácil de usar, ideal para fornecedores e usuários que buscam uma solução para VPN/Proxy.
 
 ### ✨ **Funcionalidades**
 - ✅ SSH + Dropbear (porta 443)
